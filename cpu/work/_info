@@ -1,0 +1,192 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+vALU
+VWKA:ce>CKBJmlhoT]E;FY1
+r1
+31
+IzC;h>a<2>kLQlJ`[KF^W23
+Z0 dC:\Users\Admin\Desktop\fpga_Aray\cpu
+Z1 w1622005205
+FALU.v
+Z2 8C:/Users/Admin/Desktop/fpga_Aray/cpu/test_Risc_16_bit.v
+Z3 FC:/Users/Admin/Desktop/fpga_Aray/cpu/test_Risc_16_bit.v
+L0 5
+Z4 OL;L;10.1c;51
+Z5 !s108 1622005234.090000
+Z6 !s107 Data_Memory.v|ALU_Control.v|GPRs.v|Instruction_Memory.v|Datapath_Unit.v|Control_Unit.v|Risc_16_bit.v|ALU.v|Parameter.v|C:/Users/Admin/Desktop/fpga_Aray/cpu/test_Risc_16_bit.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|+incdir+C:/Users/Admin/Desktop/fpga_Aray/cpu|C:/Users/Admin/Desktop/fpga_Aray/cpu/test_Risc_16_bit.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s92 -work work +incdir+C:/Users/Admin/Desktop/fpga_Aray/cpu -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!s85 0
+!s100 ;=]lggK8<?NQ01MRWST1o2
+!i10b 1
+valu_control
+V0haQZO3KLUDdAA<T>D;b@0
+r1
+31
+I7IkeW?1cDRSPR5iXbCoiQ2
+Z10 dC:\Users\Admin\Desktop\fpga_Aray\cpu
+R1
+FALU_Control.v
+R2
+R3
+L0 5
+R4
+R5
+R6
+R7
+R8
+R9
+!s85 0
+!s100 caT>d<l7dck=GYH9ZSWEz1
+!i10b 1
+vControl_Unit
+V[;FAM?`nHo`XN;[AgA7YS2
+r1
+!s85 0
+31
+InH4X:d1>_iBLkAFMjmjX?0
+R10
+R1
+FControl_Unit.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@control_@unit
+!s100 da>M3_1ZMj6`3_4lFCl@n3
+!i10b 1
+vData_Memory
+VQCF]`9HT3H[XO87H;Feg]0
+r1
+31
+Io6S`>X<MJiiGMhF5IcQZS3
+R10
+R1
+FData_Memory.v
+R2
+R3
+L0 7
+R4
+R5
+R6
+R7
+R8
+R9
+n@data_@memory
+!s85 0
+!s100 9HPOS5;V]`S5lVXmI;_Q`3
+!i10b 1
+vDatapath_Unit
+VizQIXf`D?Kba7WX`kRM>:2
+r1
+31
+Im8CV:dRAkICn89Q97bK?00
+R10
+R1
+FDatapath_Unit.v
+R2
+R3
+L0 12
+R4
+R5
+R6
+R7
+R8
+R9
+n@datapath_@unit
+!s85 0
+!s100 2@z]W>6z3jgJ_8[FdAmCb2
+!i10b 1
+vGPRs
+Vj`Djjf0d]^ij_:UAFkT`i3
+r1
+31
+IoNYHBeS>JmkHKZ:LaIH6B3
+R10
+R1
+FGPRs.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@g@p@rs
+!s85 0
+!s100 GOA^R?Dk9GEiI;5G5f0jU1
+!i10b 1
+vInstruction_Memory
+Vf:GZOS]_ia8QfgQU;1U_[2
+r1
+31
+IWKlO9M_D6InLc8Y?Y0D7C2
+R10
+R1
+FInstruction_Memory.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@instruction_@memory
+!s85 0
+!s100 ^XQWRQbMXmh@TSZ::]7913
+!i10b 1
+vRisc_16_bit
+VRKzQXSi@lz2_2eAE>CQN`1
+r1
+31
+Io<1`i@z2^jN1QZYP6MiJE1
+R10
+R1
+FRisc_16_bit.v
+R2
+R3
+L0 9
+R4
+R5
+R6
+R7
+R8
+R9
+n@risc_16_bit
+!s85 0
+!i10b 1
+!s100 ofb>Wo`oWIj7@7:E0:>?>1
+vtest_Risc_16_bit
+VE8bo^3N>>EVgnIE`?<jhz2
+r1
+31
+IG?9Rg:6l;3ezjbC5bS:[V3
+R10
+R1
+R2
+R3
+L0 9
+R4
+R5
+R6
+R7
+R8
+R9
+ntest_@risc_16_bit
+!s85 0
+!i10b 1
+!s100 @EeDeLRX=N[XTF^OjTm]I0

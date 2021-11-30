@@ -1,0 +1,16 @@
+0001_0000_0000_0000  // store Mem(R0+0) <- R0    ; 0
+0100_0000_0000_1000  // invert R1 <- !R0
+1001_0000_0100_1000  // SLT R1 <- 1 if R0 < R1
+0001_0000_0100_0000  // store Mem(R0+0) <- R1 
+0010_0000_0101_0000  // Add R2 <- R0 + R1
+0001_0000_1000_0000  // store Mem(R0+0) <- R2  
+0010_0010_1000_1000  // Add R1 <- R1 + R2
+1001_0010_1001_1000  // SLT R3 <- 1 if R1 < R2
+1100_0000_1100_0110  // BNE branch to jump if R0!=R3, PCnew= PC+2+offset<<1 =>offset = 6
+0001_0000_0100_0000  // store Mem(R0+0) <- R1    
+0010_0010_1001_0000  // Add R2 <- R1 + R2        
+1001_0100_0101_1000  // SLT R3 <- 1 if R2 < R1
+1100_0000_1100_0010  // BNE branch to jump if R0!=R3, PCnew= PC+2+offset<<1 =>offset = 2
+0001_0000_1000_0000  // store Mem(R0+0) <- R2   
+1101_0000_0000_0101  // J jump to the beginning address
+1101_0000_0000_0000  // J jump to the beginning address
