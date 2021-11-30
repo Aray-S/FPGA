@@ -1,0 +1,90 @@
+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Control_Unit.v {1 {vlog -work work -vopt C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Control_Unit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Control_Unit
+
+Top level modules:
+	Control_Unit
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/GPRs.v {1 {vlog -work work -vopt C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/GPRs.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module GPRs
+
+Top level modules:
+	GPRs
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/test_Risc_16_bit.v {2 {vlog -work work -vopt +incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/test_Risc_16_bit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+-- Compiling module Control_Unit
+-- Compiling module Instruction_Memory
+-- Compiling module GPRs
+-- Compiling module alu_control
+-- Compiling module Data_Memory
+** Warning: C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU.v(5): (vlog-2275) 'ALU' already exists and will be overwritten.
+
+-- Compiling module ALU
+-- Compiling module Datapath_Unit
+-- Compiling module Risc_16_bit
+-- Compiling module test_Risc_16_bit
+
+Top level modules:
+	test_Risc_16_bit
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Parameter.v {1 {vlog -work work -vopt C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Parameter.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Risc_16_bit.v {1 {vlog -work work -vopt +incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Risc_16_bit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Control_Unit
+-- Compiling module Instruction_Memory
+-- Compiling module GPRs
+-- Compiling module alu_control
+-- Compiling module Data_Memory
+-- Compiling module ALU
+-- Compiling module Datapath_Unit
+-- Compiling module Risc_16_bit
+
+Top level modules:
+	Risc_16_bit
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU.v {1 {vlog -work work -vopt C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU_Control.v {1 {vlog -work work -vopt C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU_Control.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Data_Memory.v {1 {vlog -work work -vopt +incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Data_Memory.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/DataPath_unit.v {1 {vlog -work work -vopt +incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/DataPath_unit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Instruction_Memory
+-- Compiling module GPRs
+-- Compiling module alu_control
+-- Compiling module Data_Memory
+-- Compiling module ALU
+-- Compiling module Datapath_Unit
+
+Top level modules:
+	Datapath_Unit
+
+} {} {}} C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Instruction_Memory.v {1 {vlog -work work -vopt +incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Instruction_Memory.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}}

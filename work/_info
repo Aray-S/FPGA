@@ -1,0 +1,192 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Admin\Desktop\fpga_Aray\cpu
+vALU
+VWKA:ce>CKBJmlhoT]E;FY1
+r1
+31
+IFd6e6YMPY^Z=IWQ:Ha[V81
+Z0 dC:\Users\Admin\Downloads\fpga_Aray
+Z1 w1621425282
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU.v
+Z2 8C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/test_Risc_16_bit.v
+Z3 FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/test_Risc_16_bit.v
+L0 5
+Z4 OL;L;10.1c;51
+Z5 !s108 1622008673.869000
+Z6 !s107 C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Data_Memory.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU_Control.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/GPRs.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Instruction_Memory.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Datapath_Unit.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Control_Unit.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Risc_16_bit.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Parameter.v|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/test_Risc_16_bit.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|+incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc|C:/Users/Admin/Downloads/fpga_Aray/16bit_risc/test_Risc_16_bit.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s92 -work work +incdir+C:/Users/Admin/Downloads/fpga_Aray/16bit_risc -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!s85 0
+!s100 jbPC>H7W8R?hE:U8k``W[1
+!i10b 1
+valu_control
+V0haQZO3KLUDdAA<T>D;b@0
+r1
+31
+IfK`ji1j7j72P3JRmO1N>92
+Z10 dC:\Users\Admin\Downloads\fpga_Aray
+R1
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/ALU_Control.v
+R2
+R3
+L0 5
+R4
+R5
+R6
+R7
+R8
+R9
+!s85 0
+!s100 lc;IH7z@^WXF6;>:^jlQ20
+!i10b 1
+vControl_Unit
+V[;FAM?`nHo`XN;[AgA7YS2
+r1
+!s85 0
+31
+IBl7HUFG2Hm3z_GIGXG7Dd3
+R10
+R1
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Control_Unit.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@control_@unit
+!s100 2^Vi41SFCNA798Yl3aA7f2
+!i10b 1
+vData_Memory
+VQCF]`9HT3H[XO87H;Feg]0
+r1
+31
+I=J<9Q^O`=>AA:Pb^n8c5R0
+R10
+R1
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Data_Memory.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@data_@memory
+!s85 0
+!s100 9SMnK8n<`jCdFgLi6G[DA1
+!i10b 1
+vDatapath_Unit
+VizQIXf`D?Kba7WX`kRM>:2
+r1
+31
+IWjg`i3nmd^62YXnd3I_TP1
+R10
+w1622005851
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Datapath_Unit.v
+R2
+R3
+L0 12
+R4
+R5
+R6
+R7
+R8
+R9
+n@datapath_@unit
+!s85 0
+!s100 `:kUXQZ0bRUVPIc2`PT7F3
+!i10b 1
+vGPRs
+Vj`Djjf0d]^ij_:UAFkT`i3
+r1
+31
+I?9cFFcJ8iR<PdaeBY:D@a0
+R10
+R1
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/GPRs.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@g@p@rs
+!s85 0
+!s100 Yi6WKfV:QGKG2dRmn@9ki0
+!i10b 1
+vInstruction_Memory
+Vf:GZOS]_ia8QfgQU;1U_[2
+r1
+31
+IX1ggZ4^CGUk=AeNXoPQ4G2
+R10
+R1
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Instruction_Memory.v
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+R9
+n@instruction_@memory
+!s85 0
+!s100 N`g9m[G0og27[<O@1US[S1
+!i10b 1
+vRisc_16_bit
+VRKzQXSi@lz2_2eAE>CQN`1
+r1
+31
+IP8EWiHfR3?Pgc_^H:;KbX0
+R10
+R1
+FC:/Users/Admin/Downloads/fpga_Aray/16bit_risc/Risc_16_bit.v
+R2
+R3
+L0 8
+R4
+R5
+R6
+R7
+R8
+R9
+n@risc_16_bit
+!s85 0
+!s100 ZPGWXAT=5^?KYg;kik1ZX3
+!i10b 1
+vtest_Risc_16_bit
+VE8bo^3N>>EVgnIE`?<jhz2
+r1
+31
+ImRAc[34_[1J>zWliB3<V^0
+R10
+R1
+R2
+R3
+L0 9
+R4
+R5
+R6
+R7
+R8
+R9
+ntest_@risc_16_bit
+!s85 0
+!s100 dla]d=fXkBc0eWd:G1CN52
+!i10b 1
