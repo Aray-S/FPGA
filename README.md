@@ -1,2 +1,2 @@
 # fpga
-University fpga course: Fibonacci
+University fpga course: homework (Fibonacci)
